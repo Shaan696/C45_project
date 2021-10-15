@@ -1,2 +1,3 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+My own game 
+Part 1
+Project C-45
